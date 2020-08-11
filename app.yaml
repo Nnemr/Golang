@@ -1,6 +1,5 @@
 runtime: go
 
-
 # This sample incurs costs to run on the App Engine flexible environment. 
 manual_scaling:
   instances: 1
